@@ -1,0 +1,31 @@
+theme: jekyll-theme-tactile
+
+title: TITOLOO 
+description: Mathematics is like God, perfect and infinite, with the difference that at least about God we have understood something.
+author: Riccardo marchesin
+
+social-network-links:
+  email: "someone@example.com"
+  github: r-marche
+#  twitter: ''
+#  youtube: ''
+#  medium: yourname
+#  reddit: yourname
+  linkedin: j
+#  stackoverflow: ""
+#  snapchat: ''
+#  instagram: ''
+  telegram: jj
+#  google-scholar: your google scholar
+
+
+
+github:
+  is_project_page: false
+markdown: kramdown
+kramdown:
+    math_engine: mathjax
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

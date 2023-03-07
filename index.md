@@ -1,5 +1,5 @@
 Lorem ipsum dolor sit amet.
-Pagina di provaaaaa
+Pagina di provaaaa
 
 # Titolo 1
 

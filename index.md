@@ -1,4 +1,4 @@
 
 ## Teaching
-    Tutorato informatica
-    Roba 2? 
+-Tutorato informatica
+-Roba 2? 

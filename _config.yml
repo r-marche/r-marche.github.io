@@ -4,6 +4,11 @@ google-site-verification: googleac5c27a26033b05a.html
 title: Riccardo's page
 description: Permanently under construction. Mostly a link container. Hopefully interesting.
 
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
 
 github:
   is_project_page: false

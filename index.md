@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Titolo
 ---
 
 Lorem ipsum dolor sit amet.

@@ -1,6 +1,4 @@
----
-layout: page
----
+
 
 Lorem ipsum dolor sit amet.
 Pagina di provaaaa

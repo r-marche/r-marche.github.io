@@ -4,7 +4,7 @@ layout:home
 
 Lorem ipsum dolor sit amet.
 Pagina di provaaaa
-
+<!---
 # Titolo 1
 
 * Link? : <a href="https://www.google.com"> googlee </a>.
@@ -12,3 +12,4 @@ Pagina di provaaaa
 
 ### Titolo 2
 Testo con o senza contesto
+-->

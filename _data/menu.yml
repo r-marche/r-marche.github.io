@@ -1,7 +1,7 @@
 entries:
-  - title: info
+  - title: Teaching
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
+      - title: Tutorato informatica (in italiano)
+        url: /tutorato-informatica
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"

@@ -1,4 +1,6 @@
-
+---
+layout:home
+---
 
 Lorem ipsum dolor sit amet.
 Pagina di provaaaa

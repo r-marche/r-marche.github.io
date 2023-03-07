@@ -3,7 +3,7 @@ layout:home
 ---
 
 Lorem ipsum dolor sit amet.
-Pagina di provaaaa
+Pagina di provaaa
 <!---
 # Titolo 1
 

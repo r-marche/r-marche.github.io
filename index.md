@@ -1,3 +1,8 @@
+---
+layout: archive
+title: The title of the page here
+---
+
 Lorem ipsum dolor sit amet.
 Pagina di provaaaa
 

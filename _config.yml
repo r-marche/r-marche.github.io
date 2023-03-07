@@ -1,7 +1,7 @@
-remote_theme: riggraz/no-style-please
 title: Riccardo's page
 author: Riccardo Marchesin
 description: Permanently under construction. Mostly a link container. Hopefully interesting.
+remote_theme: riggraz/no-style-please
 theme_config:
   appearance: "auto"
   back_home_text: "<<"

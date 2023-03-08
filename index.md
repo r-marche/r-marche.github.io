@@ -11,7 +11,8 @@ layout: home
         - Can we go further?
 
     Provo a scrivere cose così, se fosse codice avrebbe senso
-    
+    > Robe importantissime
+
 ![image](/art__substitute.png "Literaly me")
 
 ## Testo numero xyz

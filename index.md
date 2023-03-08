@@ -1,7 +1,11 @@
 ---
 layout: home
 ---
-
+## Una lista utilissima a non perdere spazio
+- Robe
+- Altre cose
+- Mamma mia quante robe
+- Guarda qui sotto, c'è un sostituto
 ![image](/art__substitute.png "Literaly me")
 
 ## Testo numero xyz

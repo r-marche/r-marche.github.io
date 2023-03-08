@@ -6,6 +6,12 @@ layout: home
 - Altre cose
 - Mamma mia quante robe
 - Guarda qui sotto, c'è un sostituto
+    - Aiuto una lista annidata
+    - AAAA
+        - Can we go further?
+
+    Provo a scrivere cose così, se fosse codice avrebbe senso
+    
 ![image](/art__substitute.png "Literaly me")
 
 ## Testo numero xyz

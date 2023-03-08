@@ -4,4 +4,6 @@ entries:
       - title: Tutorato informatica (in italiano)
         url: /tutorato-informatica
       - title: "Laboratorio di Programmazione <a href='https://didatticaonline.unitn.it/dol/course/view.php?id=36494'>pagina moodle</a> and <a href='/miositoconlesoluzioniforselofarò'>my page</a>."
-
+  - title: post
+    post list:
+      limit: 3

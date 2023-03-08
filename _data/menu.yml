@@ -5,7 +5,3 @@ entries:
         url: /tutorato-informatica
       - title: "Laboratorio di Programmazione <a href='https://didatticaonline.unitn.it/dol/course/view.php?id=36494'>pagina moodle</a> and <a href='/miositoconlesoluzioniforselofarò'>my page</a>."
 
-- title: Prova?
-    post_list:
-      limit: 5
-      show_more: true

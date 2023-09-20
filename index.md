@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+{% comment %}
 ## Una lista utilissima a non perdere spazio
 - Robe
 - Altre cose
@@ -23,3 +24,4 @@ ervioan lapfk laef Testo con o senza contesto se faccio presto non protesto perc
 ervioan lapfk laef Testo con o senza contesto se faccio presto non protesto perché sono un foresto aaauvo nearvoaeurvn aeoèvn  aonaeo nlawo l 
 ervioan lapfk laef Testo con o senza contesto se faccio presto non protesto perché sono un foresto aaauvo nearvoaeurvn aeoèvn  aonaeo nlawo l 
 ervioan lapfk laef 
+{% endcomment %}

@@ -1,7 +1,7 @@
 entries:
   - title: Research
     entries: 
-      - title: How To Save Fees in Bitcoin Smart Contracts
+      - title: How To Save Fees in Bitcoin Smart Contracts\: a Simple Optimistic Off-chain Protocol.
         url: https://arxiv.org/abs/2403.09880
       - title: DeFi composability as MEV non-interference.
         url: https://arxiv.org/abs/2309.10781

@@ -1,6 +1,8 @@
 entries:
   - title: Research
     entries: 
+      - title: Scalable UTXO smart contracts via fine-grained distributed state
+        url: https://arxiv.org/abs/2406.07700
       - title: How To Save Fees in Bitcoin Smart Contracts<span>&#58;</span>  a Simple Optimistic Off-chain Protocol.
         url: https://arxiv.org/abs/2403.09880
       - title: DeFi composability as MEV non-interference.
